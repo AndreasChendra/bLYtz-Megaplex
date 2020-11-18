@@ -1,6 +1,6 @@
 # bLYtz-Megaplex
 
-This repository is used for ***Database System*** Project. Lab's Project that created in term 3 in Binus University.
+This repository is used for ***Database Systems*** Project. Lab's Project that created in term 3 in Binus University.
 
 ## Software will be used in this subject are described as follows:
 
